@@ -7,3 +7,5 @@ para hacer otro sitio web
 este sera el primer commit del segundo repositorio 
 
 En mi repositorio quiero hacer otro diferente
+
+para saber si funciona  esto me da dolor de cabeza
