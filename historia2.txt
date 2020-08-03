@@ -6,6 +6,14 @@ para hacer otro sitio web
 
 este sera el primer commit del segundo repositorio 
 
+<<<<<<< HEAD
 En mi repositorio quiero hacer otro diferente
 
 para saber si funciona  esto me da dolor de cabeza
+=======
+aqui voy a empujar de nuevo este repositorio, 
+parece que no lo force a fucionar las historias relacionadas
+
+aprovecho para decirme que tengo que achicar la imagen porque esta muy pesada 
+pero ya es bien sabido que en lo posible es mejor no colocar imagenes
+>>>>>>> header

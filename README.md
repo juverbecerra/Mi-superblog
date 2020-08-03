@@ -1,6 +1,10 @@
 <<<<<<< HEAD
 # superblog
+<<<<<<< HEAD
 Blog increíble para el curso de Git y Github 
+=======
+Blog increíble para el curso de Git y Github de Platzi
+>>>>>>> header
 =======
 # Mi-superblog
 Este es mi segundo repositorio de principiante
